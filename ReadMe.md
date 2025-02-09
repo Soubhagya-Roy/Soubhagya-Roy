@@ -2,7 +2,7 @@
 <h2 align="center">👁️ The Code Whisperer</h2> <p align="center">
   <b>💻 Type:</b> CSE Final Year Conqueror <br>
   <b>🌌 Power Source:</b> C++ | Python | C <br>
-  <b>🔮 Spell:</b> Summoning Linked Lists & Cracking Ciphers 🔐 <br>
+  <b>🔮 Spell:</b> Summoning AI Models & Weaving Machine Learning Magic 🤖✨ 🔐 <br>
   <b>🎵 Vibe:</b> Music Score in the background, bug fixes in the foreground  
 </p>  
 
