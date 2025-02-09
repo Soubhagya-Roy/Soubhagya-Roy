@@ -1,5 +1,19 @@
 # 💫 About Me:
-# 👁️ The Code Whisperer  <br><br>**💻 Type:** CSE Final Year Conqueror  <br>**🌌 Power Source:** C++ | Python | C  <br>**🔮 Spell:** Summoning Linked Lists & Cracking Ciphers 🔐  <br>**🎵 Vibe:** Tabla beats in the background, bug fixes in the foreground  <br><br>🛸 **Status:**  <br>- Slowly learning to merge my dreams with code...  <br>- Building the universe one line at a time...  <br>- Currently at: **Somewhere between slow and impossible**  <br><br>🔭 Currently: Debugging my way through the stars ✨  <br>
+<h2 align="center">👁️ The Code Whisperer</h2> <p align="center">
+  <b>💻 Type:</b> CSE Final Year Conqueror <br>
+  <b>🌌 Power Source:</b> C++ | Python | C <br>
+  <b>🔮 Spell:</b> Summoning Linked Lists & Cracking Ciphers 🔐 <br>
+  <b>🎵 Vibe:</b> Music Score in the background, bug fixes in the foreground  
+</p>  
+
+---
+
+🛸 **Status:**  
+- <i>Slowly learning to merge my dreams with code...</i>  
+- <i>Building the universe one line at a time...</i>  
+- <b>Currently at:</b> <span style="color:#ffcc00">Somewhere between slow and impossible</span>  
+
+🔭 <b>Currently:</b> Debugging my way through the stars ✨ 
 
 
 ## 🌐 Socials:
