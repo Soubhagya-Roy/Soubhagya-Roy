@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👽 The Code Sorcerer  <br><br>**💻 Type:** CSE Final Year Conqueror  <br>**🌌 Power Source:** C++ | Python | C  <br>**🔮 Spell:** Summoning Linked Lists & Cracking Ciphers 🔐  <br>**🎵 Vibe:**  Music in the background, bug fixes in the foreground  <br><br>🛸 **Status:**  <br>- Slowly learning to merge my dreams with code...  <br>- Building the universe one line at a time...  <br>- Currently at: **Somewhere between slow and impossible**  <br><br>🔭 Currently: Debugging my way through the stars ✨  <br>
+# 👁️ The Code Whisperer  <br><br>**💻 Type:** CSE Final Year Conqueror  <br>**🌌 Power Source:** C++ | Python | C  <br>**🔮 Spell:** Summoning Linked Lists & Cracking Ciphers 🔐  <br>**🎵 Vibe:**  Music in the background, bug fixes in the foreground  <br><br>🛸 **Status:**  <br>- Slowly learning to merge my dreams with code...  <br>- Building the universe one line at a time...  <br>- Currently at: **Somewhere between slow and impossible**  <br><br>🔭 Currently: Debugging my way through the stars ✨  <br>
 
 
 ## 🌐 Socials:
