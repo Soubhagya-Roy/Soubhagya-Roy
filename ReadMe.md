@@ -1,7 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 
-
+<div align="center">
 # 💫 About Me:
+</div>
 <h2 align="center">👁️ The Code Whisperer</h2> <p align="center">
   <b>💻 Type:</b> CSE Final Year Conqueror <br>
   <b>🌌 Power Source:</b> C++ | Python | C <br>
