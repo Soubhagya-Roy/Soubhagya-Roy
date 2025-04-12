@@ -1,3 +1,4 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 # 💫 About Me:
 <h2 align="center">👁️ The Code Whisperer</h2> <p align="center">
   <b>💻 Type:</b> CSE Final Year Conqueror <br>
@@ -17,7 +18,6 @@
 
 
 ## 🌐 Socials:
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhagya-roy-19413b33b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roysoubhagya98@gmail.com) 
 
 # 💻 Tech Stack:
