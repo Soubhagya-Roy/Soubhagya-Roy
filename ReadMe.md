@@ -26,6 +26,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-Roy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhagya-Roy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soubhagya-Roy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
